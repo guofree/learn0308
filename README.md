@@ -5,3 +5,4 @@ edit in github
 test rm rmote
 test remote rename command
 git show  & git remote show
+19:50 edit in gitee
